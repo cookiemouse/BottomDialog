@@ -2,7 +2,7 @@
 一个显示在底部，占据屏幕宽度的对话框。
 
 ##效果图
-![pic](https://github.com/cookiemouse/BottomDialog/blob/master/pic/pic.jpg?raw=true)
+<img src=https://github.com/cookiemouse/BottomDialog/blob/master/pic/pic.jpg?raw=true width="50%" height="50%"/>
 
 ##使用方法
 使用方法非常简单，和DialogFragment一样。其aar在lib文件夹中。[lib](https://github.com/cookiemouse/BesselLoading/tree/master/lib)
