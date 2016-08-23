@@ -5,7 +5,7 @@
 <img src=https://github.com/cookiemouse/BottomDialog/blob/master/pic/pic.jpg?raw=true width="50%" height="50%"/>
 
 ##使用方法
-使用方法非常简单，和DialogFragment一样。其aar在lib文件夹中。[lib](https://github.com/cookiemouse/BesselLoading/tree/master/lib)
+使用方法非常简单，和DialogFragment一样。其aar在lib文件夹中。[lib](https://github.com/cookiemouse/BottomDialog/tree/master/lib)
 ```java
     BottomDialog bottomDialog = new BottomDialog();
     View view = LayoutInflater.from(MainActivity.this).inflate(R.layout.view_dialog, null);
